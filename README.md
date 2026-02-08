@@ -1,3 +1,3 @@
 <img width = "100%" height = '300px' src = "https://github.com/user-attachments/assets/4aee1e10-2a4e-41bd-8a10-e930da956d33">
-<p>I like writing inference pipelines.</p>
+<br><p color="silver">I like writing inference pipelines. </p>
 
